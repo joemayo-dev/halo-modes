@@ -5,3 +5,4 @@ Halo Infinite game mode ideas
 Try to kill in mid air. Or shotgun repulser 
 - players fly over fisher man that try to grab them with grappling hook
 - Bomberman
+- paperboy, warthog and plasmas 
